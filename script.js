@@ -6,9 +6,9 @@ toggleBtn.addEventListener('click', () => {
 });
 
 const images = [
-  "images/smakespeduli1_resized.jpg",
+  "images/smakesspedulii.jpg",
   "images/comingsoon1.jpg",
-  "images/comingsoon3.jpg"
+  "images/hardiknass.jpg"
 ];
 
 let current = 0;
